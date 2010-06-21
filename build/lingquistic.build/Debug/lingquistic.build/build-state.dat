@@ -1,0 +1,176 @@
+Tlingquistic
+v7
+r0
+t298851233.151159
+cCheck dependencies
+cProcessInfoPlistFile /Users/ethanvizitei/Documents/git/Ruby/lingquistic/build/Debug/lingquistic.app/Contents/Info.plist Info.plist
+cCopyStringsFile /Users/ethanvizitei/Documents/git/Ruby/lingquistic/build/Debug/lingquistic.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCpResource build/Debug/lingquistic.app/Contents/Resources/rb_main.rb rb_main.rb
+cCompileXIB /Users/ethanvizitei/Documents/git/Ruby/lingquistic/English.lproj/MainMenu.xib
+cCompileC build/lingquistic.build/Debug/lingquistic.build/Objects-normal/x86_64/main.o /Users/ethanvizitei/Documents/git/Ruby/lingquistic/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/ethanvizitei/Documents/git/Ruby/lingquistic/build/Debug/lingquistic.app/Contents/MacOS/lingquistic normal x86_64
+cTouch /Users/ethanvizitei/Documents/git/Ruby/lingquistic/build/Debug/lingquistic.app
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004B7D589B00000000000000EE
+t1266505883
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/Library/Frameworks/MacRuby.framework/Headers/MacRuby.h
+c000000004BDB4850000000000000005F
+t1272662096
+s95
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004B99A23900000000000000EE
+t1268359737
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks/MacRuby.framework/Headers/MacRuby.h
+c000000004BDB4850000000000000005F
+t1272662096
+s95
+
+N/Library/Frameworks/MacRuby.framework/MacRuby
+c000000004BDF355E0000000001C109E8
+t1272919390
+s29428200
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/ethanvizitei/Documents/git/Ruby/lingquistic/English.lproj/InfoPlist.strings
+c000000004C1FE21F00000000000000CA
+t1277157919
+s202
+
+N/Users/ethanvizitei/Documents/git/Ruby/lingquistic/English.lproj/MainMenu.xib
+c000000004C1FE21F000000000001B56C
+t1277157919
+s111980
+
+N/Users/ethanvizitei/Documents/git/Ruby/lingquistic/build/Debug/lingquistic.app
+t1277158433
+s102
+
+N/Users/ethanvizitei/Documents/git/Ruby/lingquistic/build/Debug/lingquistic.app/Contents/Info.plist
+t1277158427
+s781
+
+N/Users/ethanvizitei/Documents/git/Ruby/lingquistic/build/Debug/lingquistic.app/Contents/MacOS/lingquistic
+t1277158433
+s9632
+
+N/Users/ethanvizitei/Documents/git/Ruby/lingquistic/build/Debug/lingquistic.app/Contents/PkgInfo
+t1277158427
+s8
+
+N/Users/ethanvizitei/Documents/git/Ruby/lingquistic/build/Debug/lingquistic.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1277158428
+s202
+
+N/Users/ethanvizitei/Documents/git/Ruby/lingquistic/build/Debug/lingquistic.app/Contents/Resources/English.lproj/MainMenu.nib
+t1277158428
+s19255
+
+N/Users/ethanvizitei/Documents/git/Ruby/lingquistic/build/Debug/lingquistic.app/Contents/Resources/rb_main.rb
+t1277158427
+s622
+
+N/Users/ethanvizitei/Documents/git/Ruby/lingquistic/build/lingquistic.build/Debug/lingquistic.build/Objects-normal/x86_64/lingquistic.LinkFileList
+c000000004C1FE41A0000000000000080
+t1277158426
+s128
+
+N/Users/ethanvizitei/Documents/git/Ruby/lingquistic/build/lingquistic.build/Debug/lingquistic.build/Objects-normal/x86_64/main.o
+t1277158431
+s7480
+
+N/Users/ethanvizitei/Documents/git/Ruby/lingquistic/main.m
+c000000004C1FE21F00000000000000FE
+t1277157919
+s254
+i<MacRuby/MacRuby.h>
+
+N/Users/ethanvizitei/Documents/git/Ruby/lingquistic/rb_main.rb
+c000000004C1FE21F000000000000026E
+t1277157919
+s622
+
+NInfo.plist
+c000000004C1FE21F0000000000000348
+t1277157919
+s840
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies298851226#298851226#0(0"0(0#1#0"31244212048494624#0"0#
+
+CCompileC build/lingquistic.build/Debug/lingquistic.build/Objects-normal/x86_64/main.o /Users/ethanvizitei/Documents/git/Ruby/lingquistic/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s298851228.467358
+e298851231.267548
+r1
+xCompileC
+xbuild/lingquistic.build/Debug/lingquistic.build/Objects-normal/x86_64/main.o
+x/Users/ethanvizitei/Documents/git/Ruby/lingquistic/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/ethanvizitei/Documents/git/Ruby/lingquistic/main.m298851228#298851231#0(0"0(0#0#57"/Users/ethanvizitei/Documents/git/Ruby/lingquistic/main.m4300911832#1117"    cd /Users/ethanvizitei/Documents/git/Ruby/lingquistic    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fobjc-gc-only -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/ethanvizitei/Documents/git/Ruby/lingquistic/build/lingquistic.build/Debug/lingquistic.build/lingquistic.hmap -F/Users/ethanvizitei/Documents/git/Ruby/lingquistic/build/Debug -F/Users/ethanvizitei/Documents/git/Ruby/lingquistic/build/Debug -I/Users/ethanvizitei/Documents/git/Ruby/lingquistic/build/Debug/include -I/Users/ethanvizitei/Documents/git/Ruby/lingquistic/build/lingquistic.build/Debug/lingquistic.build/DerivedSources/x86_64 -I/Users/ethanvizitei/Documents/git/Ruby/lingquistic/build/lingquistic.build/Debug/lingquistic.build/DerivedSources -c /Users/ethanvizitei/Documents/git/Ruby/lingquistic/main.m -o /Users/ethanvizitei/Documents/git/Ruby/lingquistic/build/lingquistic.build/Debug/lingquistic.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/ethanvizitei/Documents/git/Ruby/lingquistic/English.lproj/MainMenu.xib
+s298851227.091915
+e298851228.467221
+r1
+xCompileXIB
+x/Users/ethanvizitei/Documents/git/Ruby/lingquistic/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib298851227#298851228#0(0"0(0#0#77"/Users/ethanvizitei/Documents/git/Ruby/lingquistic/English.lproj/MainMenu.xib4300911832#367"    cd /Users/ethanvizitei/Documents/git/Ruby/lingquistic    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/ethanvizitei/Documents/git/Ruby/lingquistic/build/Debug/lingquistic.app/Contents/Resources/English.lproj/MainMenu.nib /Users/ethanvizitei/Documents/git/Ruby/lingquistic/English.lproj/MainMenu.xib0#
+
+CCopyStringsFile /Users/ethanvizitei/Documents/git/Ruby/lingquistic/build/Debug/lingquistic.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s298851227.066104
+e298851228.089619
+r1
+xCopyStringsFile
+x/Users/ethanvizitei/Documents/git/Ruby/lingquistic/build/Debug/lingquistic.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings298851227#298851228#0(0"0(0#0#82"/Users/ethanvizitei/Documents/git/Ruby/lingquistic/English.lproj/InfoPlist.strings4300911832#394"    cd /Users/ethanvizitei/Documents/git/Ruby/lingquistic    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/ethanvizitei/Documents/git/Ruby/lingquistic/build/Debug/lingquistic.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Debug/lingquistic.app/Contents/Resources/rb_main.rb rb_main.rb
+s298851227.091204
+e298851227.385402
+r1
+xCpResource
+xbuild/Debug/lingquistic.app/Contents/Resources/rb_main.rb
+xrb_main.rb
+lSLF07#2@15"Copy rb_main.rb298851227#298851227#0(0"0(0#0#61"/Users/ethanvizitei/Documents/git/Ruby/lingquistic/rb_main.rb4300911832#366"    cd /Users/ethanvizitei/Documents/git/Ruby/lingquistic    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/ethanvizitei/Documents/git/Ruby/lingquistic/rb_main.rb /Users/ethanvizitei/Documents/git/Ruby/lingquistic/build/Debug/lingquistic.app/Contents/Resources0#
+
+CLd /Users/ethanvizitei/Documents/git/Ruby/lingquistic/build/Debug/lingquistic.app/Contents/MacOS/lingquistic normal x86_64
+s298851231.281762
+e298851233.082347
+r1
+xLd
+x/Users/ethanvizitei/Documents/git/Ruby/lingquistic/build/Debug/lingquistic.app/Contents/MacOS/lingquistic
+xnormal
+xx86_64
+lSLF07#2@110"Link /Users/ethanvizitei/Documents/git/Ruby/lingquistic/build/Debug/lingquistic.app/Contents/MacOS/lingquistic298851231#298851233#0(0"0(0#0#0"4300911832#706"    cd /Users/ethanvizitei/Documents/git/Ruby/lingquistic    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/ethanvizitei/Documents/git/Ruby/lingquistic/build/Debug -F/Users/ethanvizitei/Documents/git/Ruby/lingquistic/build/Debug -F/Users/ethanvizitei/Documents/git/Ruby/lingquistic/build/Debug -filelist /Users/ethanvizitei/Documents/git/Ruby/lingquistic/build/lingquistic.build/Debug/lingquistic.build/Objects-normal/x86_64/lingquistic.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework MacRuby -o /Users/ethanvizitei/Documents/git/Ruby/lingquistic/build/Debug/lingquistic.app/Contents/MacOS/lingquistic0#
+
+CProcessInfoPlistFile /Users/ethanvizitei/Documents/git/Ruby/lingquistic/build/Debug/lingquistic.app/Contents/Info.plist Info.plist
+s298851226.966997
+e298851227.065953
+r1
+xProcessInfoPlistFile
+x/Users/ethanvizitei/Documents/git/Ruby/lingquistic/build/Debug/lingquistic.app/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist298851227#298851227#0(0"0(0#0#61"/Users/ethanvizitei/Documents/git/Ruby/lingquistic/Info.plist13229749114044532#346"    cd /Users/ethanvizitei/Documents/git/Ruby/lingquistic    builtin-infoPlistUtility Info.plist -genpkginfo /Users/ethanvizitei/Documents/git/Ruby/lingquistic/build/Debug/lingquistic.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/ethanvizitei/Documents/git/Ruby/lingquistic/build/Debug/lingquistic.app/Contents/Info.plist0#
+
+CTouch /Users/ethanvizitei/Documents/git/Ruby/lingquistic/build/Debug/lingquistic.app
+s298851233.082518
+e298851233.151092
+r1
+xTouch
+x/Users/ethanvizitei/Documents/git/Ruby/lingquistic/build/Debug/lingquistic.app
+lSLF07#2@84"Touch /Users/ethanvizitei/Documents/git/Ruby/lingquistic/build/Debug/lingquistic.app298851233#298851233#0(0"0(0#0#0"4300911832#159"    cd /Users/ethanvizitei/Documents/git/Ruby/lingquistic    /usr/bin/touch -c /Users/ethanvizitei/Documents/git/Ruby/lingquistic/build/Debug/lingquistic.app0#
+
